@@ -12,7 +12,7 @@ A: İt’s a constructed language. Several RPG games mention a «Common Language
 
 Q: ¿ What’s the license?
 
-A: Public domain. Languages can’t (or should be) copyrighted.
+A: Public domain. Languages can’t (or shouldn’t be) copyrighted.
 
 Q: ¿ This language is just a mix of Latin, Greek & English?
 

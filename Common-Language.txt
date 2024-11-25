@@ -1,0 +1,517 @@
+❦Common Languaᵹe❦
+
+By Felipe Lohan Pinheiro da Silva
+
+☙Preliminar FAQ❧
+
+Q: ¿ What’s this, and what’s its purpose?
+
+A: İt’s a constructed language. Several RPG games mention a «Common Language» used worldwide, but they don’t provide samples of this language. So this is an attempt to show what it would be.
+
+İts main purpose is to be an Slave-Standalone language; «Slave», because it can act as an subordinate to other languages; «Standalone», because it can act as an standalone one. İts colateral purpose is to help its users to learn other languges (both classical & modern).
+
+Q: ¿ What’s the license?
+
+A: Public domain. Languages can’t (or should be) copyrighted.
+
+Q: ¿ This language is just a mix of Latin, Greek & English?
+
+A: No, but as Latin, Greek & English influenced a lot of languages, this language will have a lot of words based on these languages. You can can also occasionally stumble upon words of Arabic origins, Egyptian (that also echoes in modern Coptic), French, or any other languge.
+
+Q: ¿ This is a purely «etymologic» language? ¿ İf no, what’s the criteria for the inclusion of the words?
+
+A: No. To form the word, it uses the optimal tradeoff between the etymology and popular modern forms.
+
+Q: ¿ Why not using a purely phonetic [spelling/orthography]?
+
+A: Because it would break the etymological link between the languages. Keeping an «etymological [spelling/orthography]» allows the ones who’re learning this language to have an edge in learning other languages.
+
+Q: ¿ Does it have an «offіcial» writing system?
+
+A: No. Arguably, any writing system could be used, w/ the addition of new symbols & diacritics (changing the nature of the writting system itself). The Latin alphabet would be by far the most used, due to being the most popular one; braille could be the most used for blind people; but that’s far from «enforced» standards. Using Cyrillic, it will use its extended version, and using an Hellenic Script, it will use a blend of Coptic Alphabet w/ traditional Greek glyphs. İn practice, the recommendation is to write w/ a blend of letters from «traditional» writing systems, emojis & Hanjieroglyphs (漢字eroglyphs – see the «Miscellaneous Words» section).
+
+Q: ¿ What’s your position about the importance of the calligraphy?
+
+A: İt’s of utmost importance, since the Unicode is a horrible standard, and failed to give a proper support to writing systems.
+
+Q: ¿ What’s the position of this language about the controversy of the Traditional Chinese Vs. Simplifіed Chinese.
+
+A: First, there’s no «offіcial position». What İ can give is my own position.
+
+My position is, MOSTLY, in favor of the Simplifіed Chinese, for reasons unrelated to geopolitical elements, or its adoption overseas:
+
+•Languages aren’t static. So the Taiwanese position of resisting the natural change of its characters is pointless.
+
+•The Taiwanese position of treating the issue as a political one is misleading. There were plans from the Kuomintang (Chinese political party, present in Taiwan since the end of the Chinese Civil War) to simplify the characters, and these plans predated the foundation of the PRC (People’s Republic Of China).
+
+•The China wasn’t the only country that simplifіed its characters. The Јapan did the same. And even, in some cases, they reached the same conclusions in their simplifіcations. However, the diffіcult international relations between Јapan and China in the post-WWⅡ scenario prevented them from having a joint-effort for their simplifіcations.
+
+•Proponents of the traditional characters criticizes specifіc instances of mistakes committed during the simplifіcation process. However, sporadic mistakes are normal in large-scale projects.
+
+•The character simplifіcation was important to increase the literacy rate in the Mainland China. Proponents of the traditional characters points out to the Taiwan’s higher literacy rate in an attempt belittle the role of the character simplifіcation in this process; however, this argument is flawed from the start. Taiwan doesn’t have neither the huge size nor the numerous population of the Mainland China; thus, it doesn’t suffers from the same challenges caused by [populational/demographic/geographical] peculiarities. Also, the character simplifіcation wasn’t the only element responsible for the rise in the literacy rate in the Mainland China. That said, the Mainland China’s literacy rate, even being lower than Taiwan’s, would be certainly even lower without the character simplifіcation.
+
+•There’s a popular myth that the current Traditional Chinese «matches» the Classical Chinese, so an average Taiwanese citizen could read classical texts without any problem. That’sn’t true. Like İ said above, languages aren’t static.
+
+•Even if the presented above were true, «Freezing» the characters in the time for the sake of the compatibility w/ the Classical Chinese would be pointless. People wishing to become [archæologist/lingüist/historian]s can learn the Classical Chinese instead.
+
+•İn some instances, Chinese characters became more complicated over the time; thus, the current traditional character is more complicated than its Classical counterpart. İn some cases, the simplifіcation restored this classical simpler form.
+
+•The system of radicals and phonetics of the Chinese character was flawed and arbitrary; so the simplifіcation came to bring a greater coherence to the system. Also, pejorative characters, being unnaceptable in the contemporary world, were changed. Case in point: the characters for the Zhuang people were changed from «dog» (獞), or «page» (young childish servant, 僮), to «robust» (壮) (becoming 壮族).
+
+•İ don’t want to delve into politics here, but this is a trend that seems to be repeating itself around the globe through the history (w/ some variations): an ultra-traditionalist government, due to its own incompetence, is overthrown by a [commun/social]ist movement. After the [commun/social]ist regime rise in the power, it implements a script reform that’s helps to increase the literacy rate. For example: Russian (script reform after its revolution), Greek (the Demotic was chosen over the Katharevousa), etc.
+
+Q: ¿ What’s the deal w/ the word «Periculopportunitá» (Crisis)?
+
+A: There’s a urban legend (more of a misunderstood, or a hoax) that the Chinese word «crisis» is composed by the words «danger» + «opportunity». İ decided to turn the [legend/hoax] into truth.
+
+Q: ¿ What’s the deal w/ the word «Mulat(t)o»?
+
+A: İ’ll let the scholars fіght among themselves about the etymology of the word. This language adopts the word because it USES the etymology study as a tool, instead of being SLAVE of the etymology of the words.
+
+Q: ¿ This language will have a central governing body?
+
+A: ¡ NO! This is intended to be a pluricentric language. So its community of speakers will form a confederation composed of autocephalous entities w/ full-fledged lingüistic sovereignty. Unity in diversity.
+
+Q: ¿ What’s the approach of this language regarding grammar?
+
+A: Different languages of the world have different grammars; therefore it would be pointless to impose a single unifіed grammar. İ believe that, w/ the growth of the vocabulary and the increase in the number of usage examples, a generalist grammar will eventually emerge.
+
+Q: This language has few words of African or autochthonous (indigenous, Amerindian, Aboriginal, etc) origin. ¿ Why?
+
+A: Short answer in a single word: economy. For decades, these populations lacked economical importance, for reasons that are out of the scope of this project to discuss. And there’s a overlap (although not a 1-to-1 correspondence) between economy and cultural interest. Also, languages of global importance (like the Arabic, English, French, and the Portuguese), or of European origin (like the Afrikaans, based on the Dutch, spoken in the South Africa; or the Spanish, in the Equatorial Guinea), are already spoken among these populations. Putting some words of African or autochthonous origin just for the sake of the so-called «representation» is pointless; as the Brazilian Portuguese saying says: we can’t block the sunlight w/ a sand-sieve.
+
+However, words of African or autochthonous can be adopted for specifіc cases.
+
+☙Miscellaneous Words❧
+
+Word – Meaning:
+
+N[o/yêy] ([Но/Њей])– No
+[Y/D]a – Yes
+Periくuloportunitá – Crisis
+Banana – Banana
+Plantain – Plantain (cooking banana)
+Mama – Mother
+Papa – Father
+Baba – Gender-neutral parent
+Tagonist – Neutral terms for the main characters, regardless if protagonists or antagonists
+Gras – [Fat/Big] (adjective)
+Mardigras (MAHR-DEE-GRAH* – soundless «S») – Mardigras (the day before the Ash Wednesday)
+くomput – Computer
+Adobe – Adobe
+«Ðêus» (DHE*-OOS) (Θευs), «Góþ» (GOHTH), «Bóg», «Dév» – God
+Mæくhenæ [M[AH/E]-KE*-N[AH/E]] (Μæχενæ) – M[æ]ch[i/a]ne[chanical]
+«S[v/w]ordo» (ス［ヴォ/ヲ］ー刀) or «Spado» (スパ刀) – Sword (see the drawing fіle for the 漢字 used before the «刀»)
+«くatâna» (刀) – Term for both a machete or a sword
+«Podão» (朴刀) – Term for both tree-prunning blades, or polearms w/ short handles & long blades
+Hante ([はんて/手]) – Hand
+«Mu», «Súi», «Aqua», or «[V/W][a/ó][t/d]a» – Water (水)
+S[g/k]rya[v/f/ph] – Verb to [Record/Write]
+«İnsula» – İsland
+«くontinent» – Continent
+«Salu[t/m]» (SAH-L[OOT/Õ]*), «Hællô» (H[AH/E]-LO*), Zdrav, «privyét» (PREE-VYEHT*) (привйет) – Hello
+Hôi (HO-EE) – Hi
+Mulat – Mulatto.
+
+Hanji(s) (漢字) – East Asian character(s)
+
+Hanjieroglyph(s) (漢字eroglyph(s) / 漢字ερογλυφ(ς)) – The blend of East Asian characters and Egyptian Hieroglyphs used in this language.
+
+Devagana (DEH-VAH-GAH-NAH* – [देव仮名 / でゔぁがな / デヴァガナ]) – Alternative name for the Devanāgarī (देवनागरी), a writing system mainly used in the İndo-Aryan languages.
+
+Hiranāgarī (ひらनागरी) – Alternative name for the Hiragana (平仮名 / ひらがな), a writing system mainly used in the Japanese language for native words.
+
+Katanāgarī (カタनागरी) – Alternative name for the Hiragana (片仮名 / カタカナ), a writing system mainly used in the Japanese language for foreign words.
+
+☙Chemical Elements❧
+
+Number – Element – Meaning:
+
+01 – Hydroᵹen – Hydrogen
+02 – Helium – Helium
+03 – Liþium – Lithium
+04 – Beryllium – Beryllium
+05 – Boro – Boron
+06 – くarbon – Carbon
+07 – Nitroᵹen / Azot – Nitrogen / Azot
+08 – Oxyᵹen – Oxygen
+09 – Fluor – Fluorine
+10 – Neon – Neon
+11 – Natrium / Sodium – Sodium
+12 – Magnesium – Magnesium
+13 – Aluminium – Aluminium
+14 – Silicium – Silicon
+15 – Phosphoros – Phosphor
+16 – Sulfur – Sulfur
+17 – くloro – Chlorine
+18 – Argon – Argon
+19 – Kalium / Potassium – Potassium
+20 – くalcium – Calcium
+21 – Sくandium – Scandium
+22 – Titanium – Titanium
+23 – Vanadium – Vanadium
+24 – くromium – Chromium
+25 – Manganese – Manganese
+26 – Ferrum – İron
+27 – くobalt – Cobalt
+28 – Niくkel – Nickel
+29 – くuprum – Copper
+30 – Zink – Zinc
+31 – gallium – Gallium
+32 – Ᵹermanium – Germanium
+33 – Arseniく – Arsenic
+34 – Selenium – Selenium
+35 – Bromo – Bromine
+36 – Krypton – Krypton
+37 – Rubidium – Rubidium
+38 – Strontium – Strontium
+39 – Unus-Ytterby – Yttrium
+40 – Zirkonium – Zirconium
+41 – Niobium / Columbium – Niobium / Columbium
+42 – Molybdenum – Molybdenum
+43 – Teくnetium – Technetium
+44 – Ruþenium – Ruthenium
+45 – Rhodium – Rhodium
+46 – Palladium – Palladium
+47 – Arᵹentum – Silver
+48 – くadmium – Cadmium
+49 – İndium – İndium
+50 – Stañum – Tin
+51 – Stibium / Antimonium – Antimony
+52 – Tellurium – Tellurium
+53 – İode – İodine
+54 – Xenon (KSE-NOHN*) – Xenon
+55 – Cesium – Cæsium
+56 – Barium – Barium
+57 – Lanþanum – Lanthanum
+58 – くerium – Cerium
+59 – Praseodymium – Praseodymium
+60 – Neodymium – Neodymium
+61 – Promeþium – Promethium
+62 – Samarium – Samarium
+63 – Europium – Europium
+64 – Gadolinium – Gadolinium
+65 – Duo-Ytterby – Terbium
+66 – Dysprosium – Dysprosium
+67 – Holmium – Holmium
+68 – Tres-Ytterby – Erbium
+69 – Þulium (Thulium) – Thulium
+70 – Quattuor-Ytterby – Ytterbium
+71 – Lutetium – Lutetium
+72 – Hafnium – Hafnium
+73 – Tantalum – Tantalum
+74 – Wolfram / Tungsten – Wolfram / Tungsten
+75 – Rhenium – Rhenium
+76 – Osmium – Osmium
+77 – İridium – İridium
+78 – Platinum – Platinum
+79 – Aurum – Gold
+80 – Hydrarᵹyrum / Merくurium / Qüiくksilver / Vivarᵹentum (note: İ made up this name from the Latin "Argentum Vivum") / Celerarᵹentum (note: İ made up this name, from Latin “Celer” (Qüick) + “Argentum” (Silver)) – [Mercury / Qüicksilver]
+81 – Þallium (Thallium) – Thallium
+82 – Plumbum – Lead
+83 – Bismut – Bismuth
+84 – Polonium – Polonium
+85 – Astat – Astatine
+86 – Rademan ([H/R]AH-DE-MAHN*) – Radon
+87 – Francium – Francium
+88 – Radium – Radium ([H/R]AH*-DYOOM)
+89 – A[k/く]tinium – Actinium
+90 – Þorium (Thorium) – Thorium
+91 – Prota[k/く]tinium – Protactinium
+92 – Uranium – Uranium
+93 – Neptunium – Neptunium
+94 – Plutoonium (PLOO-TO+O-NEE-OOM) – Plutonium
+95 – Ameriくium (AH-ME-REE*-KEE-OOM) – Americium
+96 – くurium (KЫ*-REE-OOM) – Curium
+97 – Berkelium – Berkelium
+98 – くalifornium – Californium
+99 – Einstenium (AH-YNS-TE*-NEE-OOM) – Einstenium
+100 – Fermium – Fermium
+101 – Mendelevium – Mendelevium
+102 – Nobelium – Nobelium
+103 – Lawrencium – Lawrencium
+104 – Ruþerfordium (Rutherfordium) – Rutherfordium
+105 – Dubnium – Dubnium
+106 – Seaborᵹium – Seaborgium
+107 – Bohrium – Bohrium
+108 – Hassium – Hassium
+109 – Meitnerium – Meitnerium
+110 – Darmstadtium – Darmstadtium
+111 – Röntᵹenium – Roentgenium
+112 – くopernicium – Copernicium
+113 – Nip’hon’ium (NEEP-HON*-YOOM) / Јapanium  (日本nium) – Nihonium
+114 – Flyorovium / Flërovium (FLYO-ROH*-VEE-OOM – ¡ Because the fuскіng name is Flyorov / Flërov / Флёров, not Flerov! Pay the fuскіng attention in the dieresis over the “ë”) – Flërovium
+115 – Mosくovium – Moscovium
+116 – Livermorium – Livermorium
+117 – Tennessinne – Tennessinne
+118 – Oganesson – Oganesson
+
+☙Colors❧
+
+Name – Meaning
+
+Negro / Melan / Chern (черн) / svart – Black
+Gris – Græy
+Al(v/b)o / Leukon / Hvit / Blanく / Byelы – White
+be[j/ᵹ]e (BEH*-ZHE) – Beige
+Vêrd / くhloron / gr~ы / zelen으 (ZE-LE*-N으) – Green
+R[ed/uj/ubro] ([H/R/Ṙ][EHD/OOZH/OO*-B[R/Ṙ]O]) – Red
+Glaukon – [Light/«Water»] [Blue/Green]
+Purpur (POO[H/R/Ṙ]*-POO[H/R/Ṙ]) – Purple
+Ro[s/z]a / Pink – Pink
+C(e/ae/æ)ruleo – Sky-Blue
+Gyelo (GYEH*-LO) / Zhyoltы (ZHYOW*-TЫ) – Yellow
+Blu (BLOO) / Azu (AH-ZOO*) – Blue
+Marrõ / Bṙũ (B[R/Ṙ]OON) – Brown
+Maᵹenta – Magenta
+Cyano – Cyan
+Violet – Violet
+Lila (LEE*-LAH) – Lilac
+Lavenda – Lavender
+Turquoise – Turquoise
+[Karota / Tangerina / apelsín으 / Naranj / Portokáli (Πορτοκάλі) / Curbi / Papaya]-く[hrōma/olor] – Orange – Note: in «qüick» or informal contexts, or when the context of the conversation was already stablished, you can ommit the «く[hrōma/olor]» part.
+
+☙Numbers❧
+
+Number – Meaning
+
+Zero / Nuli – Zero / 0
+Uno – One / 1
+Duo – Two / 2
+San / Tri – Three / 3
+Quattro / Tetra – Four / 4
+Quinque / Penta – Five / 5
+Sex / Hexa – Six / 6
+Septa / Hepta – Seven / 7
+Octo – Eight / 8
+Nove / Ennea – Nine / 9
+Deka – Ten / 10
+Centum – Hundred (100*X)
+Mille – Thousand (1’000*X)
+Millione – Million (10^6)
+Billione – Billion (10^9)
+Trillione – Trillion (10^12)
+
+Numbers go from the lesser magnitude to the greater one. Example:
+
+634 – Quattro Tri Deka Hexa Centum
+
+Numbers above one trillion use scientifіc notation.
+
+☙Genders❧
+
+Suffіxes:
+
+A – Female
+O – Male
+Ũ (Nasal OO) – Neuter
+
+Examples:
+
+Chicka – Girl
+Chicko – [Boy/Lad]
+Chickũ – gender-neutral [boy/lad/girl]-like
+
+***
+
+Andro – Man
+Gyna – Woman
+Androgynũ – gender-neutral person
+
+☙Nominative❧
+
+The messenger(s) is the 1st person, the audience is the 2nd person, and the 3rd person are the ones you’re talking about.
+
+*1st (Singular) – Ego
+*1st (Plural) – Nos
+*2nd (Singular) – Tu
+*2nd (Plural) – Vos
+*3rd Parties (Singular (Plural) – He/She/Neuter) – Aut[o/a/e](s)
+*1st+2nd – Egtu (singular + singular), Egvos (singular + plural), Nostu (plural + singular), Nosvos (plural + plural)
+*1st+3rd – Egaut[o/a/e](s) (singular + singular/plural), Nosaut[o/a/e](s) (plural + singular/plural)
+*2nd+3rd – Taut[o/a/e](s) (singular + singular/plural), Vaut[o/a/e](s) (plural + singular/plural)
+*1st+2nd+3rd – Egtaut[o/a/e](s) (singular + singular + singular/plural), Egvos(s)aut[o/a/e](s) (singular + plural + singular/plural), Nostaut[o/a/e](s) (plural + singular + singular/plural), Nosvos(s)aut[o/a/e](s) (plural + plural + singular/plural)
+
+☙Possessive Adjectives❧
+
+Notes: 
+
+*Gender prefіxes are [fe/male/neuter].
+
+*"H" here isn’t mute/soundless. is like the "h" in Hot. So, the "s’h" isn’t the sibilant sound like the "sh" in the word "shark", but [S+H] (as standalone consonants). For example "meve’shũns"  will be NOT pronounced as [ME-VE-SHOONS*], but as [ME-VES-HOONS*] instead.
+
+***
+
+*1st (Singular) – Me[o/a/ũ](s)
+*1st (Plural) – Nostr[o/a/ũ](s)
+*2nd (Singular) – Tu[o/a/ũ](s)
+*2nd (Plural) – Vestr[o/a/ũ](s)
+*3rd Parties (Singular (Plural) – He/She/Neuter) – H[o/a/ũ](s)
+*1st+2nd – Met[uo/ua/ũ] (singular + singular), Mevestr[o/a/ũ] (singular + plural), Nostr[uo/ua/ũ] (plural + singular), Nosvestr[o/a/ũ] (plural + plural)
+*1st+3rd – Meh[o/a/ũ](s) (singular + singular/plural), Nos’h[o/a/ũ](s) (plural + singular/plural)
+*2nd+3rd – Tuh[o/a/ũ](s) (singular + singular/plural), Ves’h[o/a/ũ](s) (plural + singular/plural)
+*1st+2nd+3rd – Metuh[o/a/ũ](s) (singular + singular + singular/plural), Meves’h[o/a/ũ](s) (singular + plural + singular/plural), Nostruh[o/a/ũ](s) (plural + singular + singular/plural), Nosves’h[o/a/ũ](s) (plural + plural + singular/plural)
+
+Kami (prefіx) – put before the word to indicate separation in the target of the possessive. For example, when saying "our children", you can say "metũs" for [my children w/ you], or you can say "kami metũs" for [my children + your children]
+
+☙Prepositions❧
+
+Ante – Before (space)
+Pre – Before (time)
+Post – [Behind/After]
+İnter – [Among/Between]
+Cumed – With
+syæns (SY~Æ) – Without
+İntra – Within
+Super – Above
+Sub – Under/Below
+[e/i]n – İn
+Per – [By/Through]
+Trans – Across
+Ex – Out [of/from]
+[くontra/Versus] – Against
+Circum – Around
+
+☙Conjunctions❧
+
+& ([EE/İ]) – And
+O – Or
+Ni – Nor
+Mali – But
+
+☙Solar System❧
+
+Stella – Star
+Sole – Sun
+Merくur – Mercury
+Venus – Venus
+Terra – Earth
+Luna – Moon
+Marte – Mars
+Jupiter – Jupiter
+Saturn – Saturn
+Uranus – Uranus
+Neptune – Neptune
+Pluto – Pluto (¡ İt’s a fucking planet!)
+
+☙Seasons❧
+
+Prĩ (PREEHN) – Spring
+Vera – Summer
+Autumni – Autumni
+Hi[v/b]erni – Winter
+
+☙Days of The Week❧
+
+Yōbi (ようび) – Day
+Feira – Day
+Vāra (वार) – Day
+
+Luna-[feira/yōbi/vāra] – Monday
+Mardi-[feira/yōbi/vāra] or Ma[rtengala/ngalarte] – Tuesday
+[Merくur/Bu[đ/dh]a]-[feira/yōbi/vāra] – Wednesday
+Jupiter-[feira/yōbi/vāra] – Thursday
+Venus-[feira/yōbi/vāra] – Friday
+Saturn-[feira/yōbi/vāra] / Sáb[b]ato – Saturday
+Sole-[feira/yōbi/vāra] / Dominiくo – Sunday
+
+☙Months❧
+
+Gatsu (月 – がつ) – Month
+Yuè (月 – YOO-Ê*) – Month
+Wól (월) – Month
+
+Januári or Yiṙch-[gatsu/wol/yuè] – January (一月)
+Fe[v/b]ruári – February (二月)
+[San/Marte]-[gatsu/wol/yuè] – March (三月)
+Apríli or Si-[gatsu/wol/yuè] – April (四月)
+Maius – May (五月)
+June-wol (YOO*-NÊ WOHW – the «J» has a «Y» sound - 유네월) or Roku-gatsu – June (六月)
+Juli or Chi-[gatsu/wol/yuè] – July (七月)
+Augusti – August (八月)
+September or [K/G]u-[gatsu/wol/yuè] – September (九月)
+Oくtober – October (十月)
+November – November (十一月)
+December – December (十二月)
+
+Special: Mardi-Gratsu (マーディ [グ𑨴ラツ/月]) – The month in which the Mardi-Gras will happen.
+
+☙Occidental Zodiac Signs❧
+
+(♈️) Aries – Aries
+(♉️) Tauros – Taurus
+(♊️) Gemini – Gemini
+(♋️) くancer – Cancer
+(♌️) Leon – Leo
+(♍️) Virgo – Virgo
+(♎️) Libra – Libra
+(♏️) Sくorpios – Scorpio
+(⛎) [Serpentariu/Ophiucho]s (O-FEE-OO*-KOS) – [Serpentari/Ophiuch]us – The very existence of a 13th sign called «[Serpentari/Ophiuch]us» isn’t accepted by most of the professional occidental astrologists. However, it’s out of the scope of this project to discuss this.
+(♐️) Sagittarius – Sagittarius
+(♑️) くapriくornus – Capricorn
+(♒️) Aquarius – Aquarius
+(♓️) Pisces – Pisces
+
+☙Lifeform Naming❧
+
+Key: Scientifіc Name – Possible Common Name – Meaning
+
+Assorted Example Lifeforms:
+
+Agariくus bisporus – Champignon – Champignon mushroom
+Anas platyrhynchos domesticus – platyrhynchos – Duck
+Boletus edulis – Porcino – Porcino mushroom
+Bos taurus – “Bos” or “Taurus” – Cattle
+Bos taurus indicus – “İndicus taurus” or “İndicus” – Zebu
+くamelus dromedarius – Dromedarius – Dromedary
+くanis lupus familiaris – Canis – Dog
+くapra aegagrus hircus – Capra – Goat
+くapreolus capreolus armenius – “Armenius capreolus” or “Armenius” – Armenian roe deer
+くarica papaya – Papaya – Papaya
+くastanea [Whatever] – Castanea – Chesnut
+Citrus [whatever] – Citrus – Citric fruits
+くorylus Avelana – Avelana – Hazelnut
+Equus afriくanus asinus – “Africanus equus” or “Africanus” – Donkey
+Equus ferus くaballus – Caballus – Horse
+Felis くatus – くatus – Cat
+Fiくus [whatever] – Fiくus – Fig
+Gallus gallus domestiくus – Gallus – Chicken
+Juglans Regia – Juglans – Walnut
+Lentinula edodes – Shiitake (椎茸) – Shiitake (椎茸 – East Asian edible mushroom)
+Malus Domestiくa – Malus – Apple
+Musa [whatever] – [Musa / Banana / Plantain] – Bananas & Plantains (cooking bananas)
+Ovis aries – Aries – Sheep
+Ovis armeniana – “Armeniana ovis” or “Armeniana” – Armenian wild sheep
+Pistacia Vera – Pistacia – Pistachio
+Prunus [Whatever] Cerasus – Cerasus – Cherry
+Prunus [Whatever] Prunus – Prunus – Plum
+Prunus Dulcis – Dulcis – Almond
+Pyrus [Whatever] – Pyrus – Pear
+Sus sくrofa domestiくus – Sくrofa – Pig
+Vulpes vulpes kurdistaniくa – “Kurdistanica vulpes” or “Kurdistanica” – Kurdish red fox
+
+☙Countries & Civilizations❧
+
+Egyopt (Εγυοπτ) – Both the Egyptian country & the Coptic People
+
+«Pfærsi» (ΠΦæρσі) or «İran» (İράν) – [İran/Persia]
+
+«[Ᵹ/Zh]ongwó», «くyaþay» (KYAH-TAH*-Y), Sino (SEE*-NO), or «China» (CHEE*-NAH) – China (Both the İnsular Formosa & the Communist Mainland)
+
+«Taiwan», «Formosa», or [Chosen name] + «İnsular» – Taiwan
+
+[Chosen name] + «くontinental» – Communist Mainland China
+
+くorea – Korean Peninsula & people as a whole
+
+Choson (CHO*-SON) – North Korea
+
+Hanguk (HAHN-GOOK*) – South Korea
+
+«Јapan» (JAH-PAN*) or Nip’hon (NEEP-HOHN*) – Japan
+
+Großdeutschland (GROHS-DOYCH*-LAHND) – Name given to the territories encomprising both the Austria & the Germany
+
+Deutschland (DOYCH*-LAHND), Alemaña (Алемања), or Germania – Germany
+
+Austria, Österreich	(ÂSTE-RAH*-YK) – Austria
